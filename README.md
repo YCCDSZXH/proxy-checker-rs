@@ -2,6 +2,10 @@
 
 This repository provides an open-source server-side API for detecting if a client is using a proxy. The detection method compares the Round-Trip Time (RTT) of both the TLS and TCP layers. This differential analysis helps identify the presence of a proxy.
 
+## How
+
+![](./docs/image1.png)
+
 ## Usage
 
 Clone the repository:
