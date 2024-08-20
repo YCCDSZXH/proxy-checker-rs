@@ -6,6 +6,15 @@ This repository provides an open-source server-side API for detecting if a clien
 
 ![](./docs/image1.png)
 
+## Demo
+
+click [demo](https://blog.yccd.cc/tools/proxy-checker)
+
+or
+```shell
+curl https://api.proxychecker.yccd.cc:8443
+```
+
 ## Usage
 
 Clone the repository:
