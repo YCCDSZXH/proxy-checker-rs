@@ -35,7 +35,7 @@ cargo r
 Make a request to the detection endpoint:
 
 ```bash
-curl http://localhost:8443 -k
+curl https://localhost:8443 -k
 ```
 If you use self generate certificate, you need `-k` to skip certificate verify
 
